@@ -4,9 +4,9 @@
 
 # Todo for everyone
 
-Simple GTD app for task tracking.
+Hier soll die Website entstehen die dann auf Heroku geladen wird.
 
-Supports all Rubies and many stacks (passenger, unicorn, trinidad/jruby).
+Bis jetzt klappt es nicht, freut euch auf Updates.
 
 # To run individual tests: (for example)
 
